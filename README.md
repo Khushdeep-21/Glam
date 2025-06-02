@@ -2,21 +2,22 @@
 A fully responsive, single-page portfolio website designed for makeup artists to showcase their services, portfolio, and client reviews. Built with HTML, CSS, and JavaScript.
 
 ✨ Features
-Beautiful hero section with background image
 
-About, Services, Testimonials, and Contact sections
+1.Beautiful hero section with background image
 
-Floating “Book Now” button for quick access
+2.About, Services, Testimonials, and Contact sections
+
+3.Floating “Book Now” button for quick access
 
 Lightbox gallery for bridal looks
 
-Google Maps integration
+5.Google Maps integration
 
-WhatsApp and Instagram chat links
+6.WhatsApp and Instagram chat links
 
-Smooth animations and subtle transitions
+7.Smooth animations and subtle transitions
 
-Mobile responsive design
+8.Mobile responsive design
 
 📥 Live Preview
 You can easily open the index.html in any browser to view.
